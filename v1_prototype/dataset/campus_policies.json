@@ -1,0 +1,78 @@
+{
+  "institution": "Ramaiah Institute of Technology (MSRIT) / Autonomous Academic Institution",
+  "document_title": "Academic Regulations and Institutional Policy Handbook 2026-27",
+  "version": "4.2",
+  "policies": [
+    {
+      "clause_id": "ACA-ATT-4.1",
+      "category": "Attendance & Leave",
+      "official_title": "Mandatory Minimum Attendance Requirement for Course Registration",
+      "text": "Every registered student is mandated to maintain a cumulative classroom and laboratory attendance of not less than seventy-five percent (75%) across all scheduled contact hours in each individual course credit. Failure to attain the stipulated 75% threshold shall result in the student being deemed Ineligible for Semester End Examinations (SEE), colloquially referred to as 'Detained', without exception unless formally condoned under Clause ACA-ATT-4.2.",
+      "keywords": ["attendance", "75 percent", "detention", "semester end examination", "see eligibility", "contact hours"]
+    },
+    {
+      "clause_id": "ACA-ATT-4.2",
+      "category": "Attendance & Leave",
+      "official_title": "Condonation of Attendance Deficit on Grounds of Medical Incapacitation",
+      "text": "The Academic Review Board, chaired by the Dean of Academic Affairs, holds discretionary authority to condone attendance shortages of up to ten percent (10%), permitting students with aggregate attendance between 65.0% and 74.9% to write the semester examinations. Condonation is strictly contingent upon submission of certified medical discharge summaries or registered Government medical practitioner certificates, accompanied by a formal application countersigned by the Head of Department (HOD) submitted within forty-eight (48) hours of returning to campus.",
+      "keywords": ["medical leave", "condonation", "sick leave", "hospitalization", "65 percent", "medical certificate", "doctor slip", "health issue"]
+    },
+    {
+      "clause_id": "ACA-ACC-5.1",
+      "category": "Academic Accommodations",
+      "official_title": "Intermittent Academic Accommodations for Recognized Institutional Representation",
+      "text": "Students deputed by the institution to participate in recognized extracurricular, co-curricular, cultural (e.g., inter-collegiate musical, dramatic, or literary symposiums), collegiate sports tournaments, or sanctioned hackathons/conferences are eligible for duty attendance credit and compensatory assessments. Prior sanction via a Form-D requisition must be endorsed by the Faculty Advisor and approved by the Dean of Student Welfare prior to the commencement of the scheduled event.",
+      "keywords": ["extracurricular", "band gig", "music competition", "sports tournament", "hackathon", "duty leave", "cultural fest", "intermittent accommodation", "skip lab for event"]
+    },
+    {
+      "clause_id": "ACA-LAB-5.3",
+      "category": "Laboratory & Practical Courses",
+      "official_title": "Protocol for Compensatory Laboratory Sessions and Practical Assessments",
+      "text": "Students unable to attend regular scheduled practical laboratory sessions owing to sanctioned institutional representation or verified medical emergencies are entitled to attend a compensatory makeup laboratory cycle. Makeup sessions must be scheduled with the respective Course Instructor within ten (10) working days of resumption of academic duties. Unexcused absence from practical courses shall result in the forfeiture of Continuous Internal Evaluation (CIE) continuous assessment marks for the missed experiment.",
+      "keywords": ["makeup lab", "missed experiment", "practical test", "skip lab", "lab session redo", "compensatory lab"]
+    },
+    {
+      "clause_id": "ACA-EXM-7.1",
+      "category": "Examinations & Grading",
+      "official_title": "Grievance Redressal Mechanism and Challenge Valuation for Internal Assessments",
+      "text": "Any student seeking redressal regarding discrepancy in the evaluation of Continuous Internal Evaluation (CIE) test scripts must submit a formal appeal to the Department Examination Committee within three (3) working days of script distribution. Upon remittance of the prescribed administrative grievance fee (Rs. 300 per subject), the script shall undergo blind re-evaluation by an independent internal expert. If the revised score varies by more than 10% of the maximum marks, the revised score shall supersede the original grade.",
+      "keywords": ["re-evaluation", "recheck paper", "disputed marks", "internal test marks", "challenge valuation", "paper rechecking", "grade dispute"]
+    },
+    {
+      "clause_id": "ACA-MAL-9.2",
+      "category": "Disciplinary & Malpractice",
+      "official_title": "Prohibition of Monetary Condonation and Proxy Attendance Representation",
+      "text": "Attendance condonation cannot under any circumstance be obtained through monetary remittance, administrative donation, or compensatory penal fees. Any attempt to tender financial inducements to faculty, administrative staff, or student proxies to alter official biometric or digital attendance records constitutes an act of Severe Academic Malpractice under Section 11.4, attracting mandatory semester debarment and referral to the Disciplinary Committee.",
+      "keywords": ["pay fine for attendance", "bribe", "fake attendance", "proxy", "buy attendance", "penalty fee", "attendance waiver payment"]
+    },
+    {
+      "clause_id": "ACA-INT-6.2",
+      "category": "Internships & Industry Projects",
+      "official_title": "Eighth Semester Fast-Track Full-Time Industry Internship Policy",
+      "text": "Final year undergraduate scholars possessing a cumulative grade point average (CGPA) of 7.50 or above, with no standing academic backlogs, are permitted to pursue full-time off-campus corporate internships during the eighth semester. Such scholars must obtain a formal No Objection Certificate (NOC) from the Department Placement Office and register for remote continuous progress monitoring reviews.",
+      "keywords": ["internship", "6 month internship", "off campus internship", "noc", "full time intern", "eighth semester intern"]
+    },
+    {
+      "clause_id": "ACA-HST-8.4",
+      "category": "Campus Life & Facilities",
+      "official_title": "Overnight Access to Research Laboratories and Computing Centers",
+      "text": "Bonafide students actively engaged in capstone projects, sponsored research initiatives, or enterprise innovation competitions may be accorded extended laboratory access beyond standard campus operating hours up to 23:30 hours. Requisite authorization requires written endorsement from the Supervising Faculty Guide, countersigned by the Chief Warden for residential students.",
+      "keywords": ["night lab", "extended lab hours", "stay late in college", "lab access after hours", "curfew extension"]
+    },
+    {
+      "clause_id": "ACA-MOD-3.3",
+      "category": "Curriculum & Credits",
+      "official_title": "Credit Equivalence and Transfer for Approved MOOC and NPTEL Certifications",
+      "text": "Students in the 5th to 7th semesters may substitute up to two open elective courses (maximum of 6 credits) via approved National Programme on Technology Enhanced Learning (NPTEL) or Coursera Enterprise certifications, provided prior alignment is confirmed by the Board of Studies (BOS) and proctored examination certificates with scores of 60% and above are furnished.",
+      "keywords": ["nptel", "mooc credit transfer", "online course credit", "swayam", "elective waiver"]
+    },
+    {
+      "clause_id": "ACA-DIS-11.1",
+      "category": "Disciplinary & Malpractice",
+      "official_title": "Institutional Code of Conduct on Academic Dishonesty and Artificial Hallucination",
+      "text": "Submitting unverified, fabricated, or AI-generated citations in project theses, laboratory journals, or official administrative petitions is classified as Academic Misrepresentation. Candidates found presenting fraudulent medical slips, unauthorized club exemption letters, or deceptive documentation face immediate forfeiture of the academic term and disciplinary hearing.",
+      "keywords": ["fake medical certificate", "fake excuse", "fabricated proof", "academic dishonesty", "forgery"]
+    }
+  ]
+}
+
